@@ -51,7 +51,8 @@ background: green;
 }
 </style>
 ```
-![3](https://user-images.githubusercontent.com/82386899/115236067-20cc3000-a145-11eb-8923-d7a59bb8e477.png)
+![3](https://user-images.githubusercontent.com/82386899/115260402-ec646e00-a15c-11eb-942d-ef353a1c821a.png)
+
 ## Langkah 4
 #### Mengatur Clearfix Element 
 #### Tambahkan element div lainnya seteleah div3
@@ -63,7 +64,7 @@ background: green;
 <div class="div4">Div 4</div>
 </section>
 ```
-![4](https://user-images.githubusercontent.com/82386899/115237150-6a694a80-a146-11eb-814c-420f15b95b6a.png)
+![5](https://user-images.githubusercontent.com/82386899/115260595-1a49b280-a15d-11eb-81b4-a5545a4d2453.png)
 #### Kemudian atur property clear pada CSS
 ```
 .div4 {
@@ -72,7 +73,7 @@ clear: left;
 float: none;
 }
 ```
-![5](https://user-images.githubusercontent.com/82386899/115237948-57a34580-a147-11eb-8e07-6b8be71c3acb.png)
+![4](https://user-images.githubusercontent.com/82386899/115260475-fab28a00-a15c-11eb-86c1-605ac2f63be8.png)
 #### Membuat Layout Sederhana
 ### Buat folder baru dengan nama lab4_layout, kemudian membuat dokumen HTML dengan nama file home.html, dan style.css. Setelah itu buat struktur dasar HTML ke file home.html
 ```
@@ -90,8 +91,8 @@ float: none;
 </body>
 </html>
 ```
-![6](https://user-images.githubusercontent.com/82386899/115241917-8e7b5a80-a14b-11eb-93c3-1c292bf7c3b7.png)
-![7](https://user-images.githubusercontent.com/82386899/115244990-adc7b700-a14e-11eb-945f-97b7ebe4f3a9.png)
+![7](https://user-images.githubusercontent.com/82386899/115261157-92b07380-a15d-11eb-98d9-335e9e55d335.png)
+![6](https://user-images.githubusercontent.com/82386899/115261167-947a3700-a15d-11eb-97cc-feb6f83131c9.png)
 #### Kemudian tulis kode
 ```
 <header>
@@ -115,7 +116,7 @@ float: none;
 </body>
 </html>
 ```
-![8](https://user-images.githubusercontent.com/82386899/115245862-90471d00-a14f-11eb-81cb-c5471890c556.png)
+![8](https://user-images.githubusercontent.com/82386899/115261425-cd1a1080-a15d-11eb-93bb-219fbb33491c.png)
 #### Kemudian tambahkan kode CSS untuk membuat layoutnya
 ```
 /* import google font */
@@ -150,7 +151,7 @@ margin: 20px 10px;
 color: #b5b5b5;
 }
 ```
-![9](https://user-images.githubusercontent.com/82386899/115247043-a0133100-a150-11eb-9b8d-631c1c5246bd.png)
+![9](https://user-images.githubusercontent.com/82386899/115261677-03f02680-a15e-11eb-80b9-f42b9219790c.png)
 #### Membuat Navigasi
 ```
 /* navigasi */
@@ -171,7 +172,7 @@ nav a:hover {
 background-color: #2b83ea;
 }
 ```
-![10](https://user-images.githubusercontent.com/82386899/115248592-05b3ed00-a152-11eb-8894-89bd53cc4207.png)
+![10](https://user-images.githubusercontent.com/82386899/115261846-2e41e400-a15e-11eb-9494-056018456cc9.png)
 ### Membuat Hero Panel
 #### Tambahkan kode HTML
 ```
@@ -184,7 +185,7 @@ pretium ac.</p>
  <a href="home.html" class="btn btn-large">Learn more &raquo;</a>
 </section>
 ```
-![12](https://user-images.githubusercontent.com/82386899/115252650-dd2df200-a155-11eb-9be6-a003b5f18f15.png)
+![11](https://user-images.githubusercontent.com/82386899/115262914-2898ce00-a15f-11eb-973f-abcbf81e8175.png)
 ### Tambahkan Kode CSS
 ```
 /* Hero Panel */
@@ -203,7 +204,7 @@ pretium ac.</p>
  line-height: 25px;
 }
 ```
-![13](https://user-images.githubusercontent.com/82386899/115253745-df448080-a156-11eb-9545-ab2ee6ae6470.png)
+![12](https://user-images.githubusercontent.com/82386899/115263072-4ebe6e00-a15f-11eb-9085-4a47b91d4b36.png)
 ### Mengatur Layout Main dan Sidebar
 ```
 /* main content */
